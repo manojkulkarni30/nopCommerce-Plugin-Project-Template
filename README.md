@@ -8,11 +8,10 @@ In nopCommerce project, you just need to right click on Plugins folder and selec
 
 ![Add New Project](https://github.com/manojkulkarni30/nopCommerce-Plugin-Project-Template/blob/master/nopCommercePluginTemplate/Snapshots/Add-NewProject-Dialog.png)
 
-It will open up the project dialog window as shown below. 
-
+It will open up the project dialog. Project template is visible under Visual C# => Windows Desktop => nopCommerce menu as shown below. 
 ![Project Dialog Window](https://github.com/manojkulkarni30/nopCommerce-Plugin-Project-Template/blob/master/nopCommercePluginTemplate/Snapshots/Add-Plugin-Project.png)
 
-Project template is visible under Visual C# => Windows Desktop => nopCommerce menu. Select the nopCommerce Plugin Class Library project and give it a name and click on Ok button. After clicking on Ok button plugin project will be added under Plugins folder. 
+Select the nopCommerce Plugin Class Library project and give it a name and click on Ok button. After clicking on Ok button plugin project will be added under Plugins folder. 
 
 This project contains files like Description.txt, default logo image, plugin setting file, a controller, a view and web.config file as shown below.
 

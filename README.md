@@ -2,7 +2,7 @@
 A simple class library to get started quickly with nopCommerce plugin development. This library contains basic content which are required for nopCommerce plugin like Description.txt, plugin configuration file etc.
 
 Download
-- [Visual Studio Gallery](https://secure.wikimedia.org/wikipedia/en/wiki/Markdown)
+- [Visual Studio Gallery](https://visualstudiogallery.msdn.microsoft.com/f41e497d-fa5e-4456-9f0a-ae9a10539283)
 
 In nopCommerce project, you just need to right click on Plugins folder and select Add => New Project option as shown below. 
 

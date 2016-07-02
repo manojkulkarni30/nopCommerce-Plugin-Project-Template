@@ -1,0 +1,26 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>nopCommerce Plugin Class Library</Name>
+    <Description>A simple class library to get started quickly with nopCommerce plugin development. This library contains basic content which are required for nopCommerce plugin like Description.txt, plugin configuration file etc.</Description>
+    <DefaultName>Nop.Plugin.Misc.PluginExample</DefaultName>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>logo.jpg</Icon>
+    <TemplateID>C203A6A2-8B21-407D-8D4B-FF1204F3DA00</TemplateID>
+    <!-- Indicates how many parent folders this item template should appear in -->
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="$projectname$.csproj" File="Nop.Plugin.Misc.PluginExample.csproj" ReplaceParameters="true">
+    </Project>
+    <!--<CustomParameters>
+      <CustomParameter Name="$TemplateName$" Value="Add template name here" />
+    </CustomParameters>-->
+  </TemplateContent>
+</VSTemplate>

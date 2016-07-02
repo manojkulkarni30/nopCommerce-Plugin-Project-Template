@@ -1,0 +1,8 @@
+﻿Group: Misc
+FriendlyName: Basic Plugin
+SystemName: $projectname$
+Version: 1.0
+SupportedVersions: 3.70
+Author: nopCommerce
+DisplayOrder: 1
+FileName: $projectname$.dll
